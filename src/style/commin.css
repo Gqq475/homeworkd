@@ -1,0 +1,15 @@
+
+@media(min-width:500px){
+  .eightPicimg:{
+    display:block;
+    width:40%;
+    margin-bottom:10px;
+  }
+}
+@media(min-width:800px){
+  .eightPicimg:{
+    display:block;
+    width:25%;
+    margin-bottom:10px;
+  }
+}
